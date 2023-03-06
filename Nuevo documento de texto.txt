@@ -1,0 +1,65 @@
+<body>
+    <header>
+        <section class="HomePage">
+            <div class="navBar">
+                <nav class="navBarHead">
+                    <li class="HeadSpace"><img class="logoheader" src="./assets/slack_header.png" alt="logo"></li>
+                    <li class="HeadSpace2"><button><img class="menuHeader" src="./assets/icon_header.png"
+                                alt="menu"></button></li>
+                </nav>
+            </div>
+
+            <div class="sloganHeader">
+
+                <h1>Un buen trabajo en equipo comienza con una <span class="h1yellow">sede digital</span></h1>
+                <div class="subSlogan">
+                    <p>Reunir a todos tus compañeros, herramientas y comunicación en un mismo lugar te permitirá
+                        trabajar de
+                        manera más rápida y eficiente que nunca.</p>
+                </div>
+            </header>
+                <button class="SlackAndroid">CONSIGUE SLACK PARA ANDROID</button>
+            </div>
+        </section>
+    
+    <section class="BODY">
+        <div class="VideoGente"><video class="videohablando"
+                src="./assets/Equipo hablando de trabajo en la aplicación de Slack.webm"></video>
+        </div>
+        <section class="ourCompanies">
+            <p class="text-center">EMPRESAS DE TODO EL MUNDO YA CONFIAN EN SLACK </p>
+            <div class="logos-empresas">
+                <div class="logo-bar">
+                    <img src="https://a.slack-edge.com/e2fa17/marketing/img/logos/company/_color/airbnb-logo.png"
+                        alt="AIRBNB">
+                </div>
+                <div class="logo-bar">
+                    <img src="https://a.slack-edge.com/5ae14bf/marketing/img/logos/company/_color/logo-nasa.png"
+                        alt="NASA">
+                </div>
+                <div class="logo-bar">
+                    <img src="https://a.slack-edge.com/ce67d/marketing/img/logos/company/_color/uber.png" alt="Uber">
+                </div>
+                <div class="logo-bar">
+                    <img src="https://a.slack-edge.com/80588/marketing/img/logos/company/_color/target-logo.png"
+                        alt="lazyload">
+                </div>
+                <div class="logo-bar">
+                    <img src="https://a.slack-edge.com/044f5db/marketing/img/logos/company/_color/nyt.png"
+                        alt="NewYorkTimes">
+                </div>
+                    <div class="logo-bar">
+                        <img src="https://a.slack-edge.com/1e38e34/marketing/img/logos/company/logo-etsy.png"
+                            alt="Etsy">
+                    </div>
+            </div>
+        </section>
+    </section>
+    <section><img
+            src="https://a.slack-edge.com/8ce325c/marketing/img/homepage/e2e-prospects/animations/static/connectedness-mobile.es-ES.png"
+            srcset="https://a.slack-edge.com/445abcc/marketing/img/homepage/e2e-prospects/animations/static/connectedness-mobile.es-ES.png 1x, https://a.slack-edge.com/c8f615e/marketing/img/homepage/e2e-prospects/animations/static/connectedness-mobile.es-ES@2x.png 2x"
+            class="" alt="FotoBody"></section>
+
+</body>
+
+</html>
